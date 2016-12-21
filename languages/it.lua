@@ -40,7 +40,7 @@ return { -- when you're translating, do NOT translate the things in CAPS!
 	notChannelAdmin = 'Spiacente, sembra che tu non sia admin del gruppo/canale.',
 	unableToRetrieveChannelAdmins = 'Non sono riuscito a ottenere la lista admin del gruppo/canale.\n',
 	copypastaLength = 'Rispondi a un messaggio con meno di MAXIMUM caratteri.',
-	copypastaMustContain = 'Il messaggio di risposta deve contenere caratteri alfanumerico',
+	copypastaMustContain = 'Il messaggio di risposta deve contenere caratteri alfanumerici',
 	foundOnePwnedAccount = 'The given account was found in 1 leak',
 	accountFoundMultipleLeaks = 'The given account was found in X leaks',
 	officialLinks = 'Ecco alcuni link ufficiali che potrebbero tornarti utili!',
